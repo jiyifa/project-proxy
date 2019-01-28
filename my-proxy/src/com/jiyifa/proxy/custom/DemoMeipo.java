@@ -17,7 +17,7 @@ public class DemoMeipo implements MyInvocationHandler{
 
 	@Override
 	public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated methodfactory stub
 		System.out.println("你的性是：" + "得给你找个异性才行");
 		System.out.println("开始进行海选。。。");
 		System.out.println("------------------------------------------------------------");

@@ -8,7 +8,7 @@ public class XiaoXingXing implements Person{
 
 	@Override
 	public void findLove() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated methodfactory stub
 //		System.out.println("我叫"+ this.name + ",性别："+this.sex + "找对象的要求是：\n");
 		System.out.println("高富帅");
 		System.out.println("有房有车的");
